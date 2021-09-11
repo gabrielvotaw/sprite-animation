@@ -1,6 +1,6 @@
 # Sprite Animation
 Basic example of sprite animation.<br />
-Requires p5.min.js.<br />
+Implements p5.js.<br />
 
 ---
 

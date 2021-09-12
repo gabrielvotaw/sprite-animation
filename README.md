@@ -4,6 +4,8 @@ This is a basic example of sprite animation using JavaScript.<br />
 The unique sprites walk back and forth across the screen (some faster than others) and the user can pick them up with the mouse and drag them anywhere on screen.<br />
 <br />
 p5.js was implemented to allow funcionality.<br />
+<br />
+No further updates will be made to this project.
 
 ---
 
